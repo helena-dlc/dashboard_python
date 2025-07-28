@@ -1,0 +1,13 @@
+[theme]
+primaryColor = "#8b5cf6"  # Violeta principal
+backgroundColor = "#1a1a2e"  # Fondo oscuro
+secondaryBackgroundColor = "#2d1b69"  # Fondo secundario violeta oscuro
+textColor = "#ffffff"  # Texto blanco
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
